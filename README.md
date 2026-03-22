@@ -1,53 +1,47 @@
 # Litlog
 
-Projeto acadêmico da **Litlog**, uma plataforma web voltada para leitores, com foco em organização de leituras, recomendações, avaliações, resenhas e interação social.
+A **Litlog** é um projeto acadêmico criado com a proposta de ser uma plataforma web para leitores, reunindo em um só lugar organização de leituras, recomendações de livros, avaliações, resenhas e interação entre usuários.
+
+A ideia do projeto surgiu da percepção de que, apesar de existirem comunidades muito ativas sobre livros nas redes sociais, ainda falta uma plataforma pensada especialmente para leitores, de forma mais organizada, intuitiva e voltada para a troca de experiências.
 
 ## Sobre o projeto
 
-A Litlog foi idealizada como uma plataforma digital para leitores, inspirada em comunidades online voltadas ao compartilhamento de experiências e opiniões. A proposta é oferecer um ambiente moderno, intuitivo e interativo, onde usuários possam registrar leituras, descobrir novos livros e trocar experiências com outras pessoas.
+A Litlog foi idealizada para ser um espaço onde leitores possam acompanhar suas leituras, descobrir novos títulos e compartilhar opiniões com outras pessoas. Mais do que registrar livros, a proposta é incentivar o hábito da leitura e fortalecer a conexão entre pessoas que gostam de ler.
 
-## Problema
+## Objetivo
 
-Apesar do crescimento de comunidades digitais relacionadas à leitura, ainda existe espaço para uma plataforma dedicada exclusivamente aos leitores, com recursos de organização pessoal, recomendação de livros e interação social em um só lugar.
+O principal objetivo do projeto é apresentar a proposta de uma plataforma digital voltada para leitores, com funcionalidades que unam organização pessoal e interação social.
 
-## Objetivo geral
+## Funcionalidades propostas
 
-Desenvolver a proposta de uma plataforma web para leitores, com funcionalidades que incentivem a leitura, a organização de livros e a interação entre usuários.
-
-## Objetivos específicos
-
-- Permitir o registro de livros lidos, em andamento e desejados
-- Exibir histórico de leituras
-- Permitir avaliações e resenhas
-- Oferecer recomendações personalizadas
-- Incentivar a interação social entre leitores
+- Registrar livros lidos, em andamento e desejados
+- Manter um histórico de leituras
+- Avaliar livros e publicar resenhas
+- Receber recomendações personalizadas
+- Interagir com outros leitores
 
 ## Público-alvo
 
-Leitores que desejam organizar suas leituras, descobrir novos livros e compartilhar opiniões com outros usuários em uma plataforma digital.
+O projeto é voltado para leitores que desejam organizar suas leituras, encontrar novas recomendações e compartilhar experiências em uma plataforma digital.
 
 ## Estrutura do repositório
 
-- `docs/` → documentação do projeto
-- `apresentacao/` → apresentação em PowerPoint e PDF
+- `docs/` — documentação do projeto
+- `apresentacao/` — apresentação em PowerPoint e PDF
 
-## Arquivos do projeto
+## Arquivos disponíveis
 
-Este repositório contém:
-
-- Documento do trabalho
-- Apresentação em PowerPoint
-- Versões em PDF para visualização
+Neste repositório estão disponíveis os materiais desenvolvidos para o trabalho acadêmico, incluindo a documentação e a apresentação do projeto.
 
 ## Integrantes
 
-- Carlos Eduardo Ribeiro da Silva 
-- Gabriel Clemente Ribeiro 
-- Gustavo Lima Soares 
-- Iago Oliveira Garcia 
-- Marcus Felipe Fernandes Cruz 
-- Priscilla Goulart Vassallo 
+- Carlos Eduardo Ribeiro da Silva
+- Gabriel Clemente Ribeiro
+- Gustavo Lima Soares
+- Iago Oliveira Garcia
+- Marcus Felipe Fernandes Cruz
+- Priscilla Goulart Vassallo
 
 ## Observação
 
-Este repositório foi criado com fins acadêmicos para apresentação do projeto Litlog.
+Este repositório foi criado para fins acadêmicos, como parte da apresentação do projeto **Litlog**.
