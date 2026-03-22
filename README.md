@@ -1,37 +1,26 @@
 # Litlog
 
-A **Litlog** é um projeto acadêmico criado com a proposta de ser uma plataforma web para leitores, reunindo em um só lugar organização de leituras, recomendações de livros, avaliações, resenhas e interação entre usuários.
+A **Litlog** é um projeto acadêmico sobre uma plataforma web para leitores.
 
-A ideia do projeto surgiu da percepção de que, apesar de existirem comunidades muito ativas sobre livros nas redes sociais, ainda falta uma plataforma pensada especialmente para leitores, de forma mais organizada, intuitiva e voltada para a troca de experiências.
+A ideia é criar um espaço onde as pessoas possam organizar suas leituras, avaliar livros, escrever resenhas, receber recomendações e interagir com outros leitores.
 
-## Sobre o projeto
+## Sobre
 
-A Litlog foi idealizada para ser um espaço onde leitores possam acompanhar suas leituras, descobrir novos títulos e compartilhar opiniões com outras pessoas. Mais do que registrar livros, a proposta é incentivar o hábito da leitura e fortalecer a conexão entre pessoas que gostam de ler.
+O projeto foi pensado a partir da ideia de que muitas pessoas gostam de compartilhar experiências sobre livros, mas nem sempre têm uma plataforma específica e organizada para isso.
 
-## Objetivo
-
-O principal objetivo do projeto é apresentar a proposta de uma plataforma digital voltada para leitores, com funcionalidades que unam organização pessoal e interação social.
+Com isso, a Litlog foi proposta como uma alternativa para reunir essas funcionalidades em um só lugar.
 
 ## Funcionalidades propostas
 
-- Registrar livros lidos, em andamento e desejados
-- Manter um histórico de leituras
-- Avaliar livros e publicar resenhas
-- Receber recomendações personalizadas
-- Interagir com outros leitores
-
-## Público-alvo
-
-O projeto é voltado para leitores que desejam organizar suas leituras, encontrar novas recomendações e compartilhar experiências em uma plataforma digital.
-
-## Estrutura do repositório
-
-- `docs/` — documentação do projeto
-- `apresentacao/` — apresentação em PowerPoint e PDF
+- Cadastro de livros
+- Histórico de leitura
+- Avaliações e resenhas
+- Recomendações
+- Interação entre usuários
 
 ## Arquivos disponíveis
 
-Neste repositório estão disponíveis os materiais desenvolvidos para o trabalho acadêmico, incluindo a documentação e a apresentação do projeto.
+Este repositório contém o documento e a apresentação do trabalho.
 
 ## Integrantes
 
@@ -41,7 +30,3 @@ Neste repositório estão disponíveis os materiais desenvolvidos para o trabalh
 - Iago Oliveira Garcia
 - Marcus Felipe Fernandes Cruz
 - Priscilla Goulart Vassallo
-
-## Observação
-
-Este repositório foi criado para fins acadêmicos, como parte da apresentação do projeto **Litlog**.
