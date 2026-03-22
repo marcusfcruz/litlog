@@ -27,7 +27,7 @@ O projeto é voltado para leitores que desejam organizar suas leituras, encontra
 ## Estrutura do repositório
 
 - `docs/` — documentação do projeto
-- `apresentacao/` — apresentação em PDF
+- `apresentacao/` — apresentação em PowerPoint e PDF
 
 ## Arquivos disponíveis
 
